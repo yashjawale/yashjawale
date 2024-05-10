@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashjawale
 - 👀 I’m interested in Web Technologies & exploring its numerous possibilities
-- 🌱 I’m currently gaining a more indepth understanding of ReactJS
+- 🌱 I’m currently gaining a more indepth understanding of ReactJS & Electron
 - 💞️ I’m looking to collaborate on projects looking forward to help the world
 - 📺 Checkout my website at [yashjawale.github.io](https://yashjawale.github.io/)
 - 📫 Reach me via email: yash25.j@gmail.com & connect me on [LinkedIn](https://linkedin.com/in/yashjawale)
