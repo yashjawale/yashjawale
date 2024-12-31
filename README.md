@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @yashjawale
-- 👀 I’m interested in Web Technologies & exploring its numerous possibilities
-- 🌱 I’m currently gaining a more indepth understanding of ReactJS & Electron
+- 👀 Anything even remotely related to computers excites me.
 - 💞️ I’m looking to collaborate on projects looking forward to help the world
 - 📺 Checkout my website at [yashjawale.github.io](https://yashjawale.github.io/)
 - 📫 Reach me via email: yash25.j@gmail.com & connect me on [LinkedIn](https://linkedin.com/in/yashjawale)
 
-<!---
-Yash-Jawale/Yash-Jawale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<a href="https://yashjawale.github.io/" target="_blank"><img style="height: 22px;" src="https://raw.githubusercontent.com/yashjawale/.github/main/docs/logo.svg" alt="Yash Jawale"/></a>
+
